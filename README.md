@@ -1,0 +1,1 @@
+# 25331A05I6-Access-elements-of-an-array-pointers-
