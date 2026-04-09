@@ -6,5 +6,6 @@ int *p = arr;
 for(int i = 0; i < 4; i++){
 printf("%d ", *(p + i));
   }
+printf("\n25331A05I6");
 return 0;
 }
